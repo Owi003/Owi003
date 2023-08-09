@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Owi003
 - 👀 I’m interested in web Development(Frontend)
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently working on wordpress
 - 💞️ I’m looking to collaborate on a project using GitHub.
 - 📫 Reach me on linkedin @Owais Riaz
 
